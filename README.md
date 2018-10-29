@@ -27,7 +27,7 @@ import "typeface-beleren-bold"
 Or you can include it in your page's header via Unpkg:
 
 ```html
-<script src="https://unpkg.com/@saeris/typeface-beleren-bold"></script>
+<link href="https://unpkg.com/@saeris/typeface-beleren-bold@latest/index.css" rel="stylesheet" type="text/css" />
 ```
 
 ## 📣 Acknowledgements
