@@ -21,7 +21,7 @@ yarn add @saeris/typeface-beleren-bold
 To use this typeface, simply import it once in your application's entry point:
 
 ```javascript
-import "typeface-beleren-bold"
+import "@saeris/typeface-beleren-bold"
 ```
 
 Or you can include it in your page's header via Unpkg:
