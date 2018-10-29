@@ -32,7 +32,7 @@ Or you can include it in your page's header via Unpkg:
 
 ## 📣 Acknowledgements
 
-The fonts in this library have been extracted from Magic: The Gathering's official website, which is owned by [Wizards of the Coast](http://magicthegathering.com). This is not an official or authorized library and it is published for non-commercial use and comes with no support.
+The fonts in this library have been extracted from Magic: The Gathering's official website, which is owned by [Wizards of the Coast](http://magicthegathering.com). This is not an official or authorized library! It is published for non-commercial use and comes with no support.
 
 ## 🥂 License
 

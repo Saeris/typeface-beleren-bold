@@ -1,0 +1,19 @@
+{
+  "name": "@saeris/typeface-beleren-bold",
+  "version": "1.0.0",
+  "description": "Beleren Bold Typeface",
+  "repository": "https://github.com/Saeris/typeface-beleren-bold/",
+  "license": "MIT",
+  "main": "index.css",
+  "scripts": {
+    "release": "yarn publish --access public"
+  },
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "mtg",
+    "magic the gathering",
+    "beleren"
+  ]
+}

@@ -1,0 +1,35 @@
+/* Beleren Bold */
+@font-face {
+  font-family: "Beleren Bold";
+  src:
+    url("./Beleren2016-Bold.woff") format("woff"),
+    url("./Beleren2016-Bold.ttf") format("truetype"),
+    url("./Beleren2016-Bold.svg#Beleren2016-Bold") format("svg");
+  font-style: normal;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
+}
+
+/* Beleren SmallCaps Bold */
+@font-face {
+  font-family: "Beleren SmallCaps Bold";
+  src:
+    url("./Beleren2016SmallCaps-Bold.woff") format("woff"),
+    url("./Beleren2016SmallCaps-Bold.ttf") format("truetype"),
+    url("./Beleren2016SmallCaps-Bold.svg#Beleren2016SmallCaps-Bold") format("svg");
+  font-style: normal;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
+}
+
+/* Beleren SmallCaps BoldItalic */
+@font-face {
+  font-family: "Beleren SmallCaps BoldItalic";
+  src:
+    url("./Beleren2016SmallCaps-BoldItalic.woff") format("woff"),
+    url("./Beleren2016SmallCaps-BoldItalic.ttf") format("truetype"),
+    url("./Beleren2016SmallCaps-BoldItalic.svg#Beleren2016SmallCaps-BoldItalic") format("svg");
+  font-style: italic;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
+}
